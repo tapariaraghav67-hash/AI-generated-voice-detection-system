@@ -53,14 +53,16 @@
 ## Usage
 1)Place your audio files in a specified folder.
 
-2)Run detection script with audio file command.
+2)Use key my-hackathon-key-123.
 
-3)Check results (Real/AI) and confidence score.
+3)Run detection script with audio file command.
+
+4)Check results (Real/AI) and confidence score.
 
 
-## Authors
-1)Karan Sanpal  
-2)Raghav Taparia  
+#Contributers 
+This project was developed collaboratively with Karan Sanpal.
+Original repository: KaranSanpal/ai-generated-voice-detection
 
 Branch: Computer science and engineering(CSE)  
 Institute: MBM University 
